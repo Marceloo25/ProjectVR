@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db7d7421a7f313d4eb5687f06b2701fe, type: 3}
+  m_Name: ResourceType_Rare
+  m_EditorClassIdentifier: Assembly-CSharp::ResourceType
+  resourceName: Rare
+  rarity: 1
+  defaultMaxHP: 40
+  lootPrefab: {fileID: 7073821921813220429, guid: 044fbe72a73d83842b5beea6ea205cee,
+    type: 3}
+  hitVfxBad: {fileID: 6397927468361126867, guid: 7230c9efc2de1594d98ecf1990671479,
+    type: 3}
+  hitVfxGood: {fileID: 6397927468361126867, guid: 7230c9efc2de1594d98ecf1990671479,
+    type: 3}
+  hitVfxPerfect: {fileID: 6397927468361126867, guid: 7230c9efc2de1594d98ecf1990671479,
+    type: 3}
+  breakVfx: {fileID: 6397927468361126867, guid: 7230c9efc2de1594d98ecf1990671479,
+    type: 3}
+  hitSfxBad: {fileID: 8300000, guid: c4bc452d00f87ff4986720f2c9d245b4, type: 3}
+  hitSfxGood: {fileID: 8300000, guid: c4bc452d00f87ff4986720f2c9d245b4, type: 3}
+  hitSfxPerfect: {fileID: 8300000, guid: c4bc452d00f87ff4986720f2c9d245b4, type: 3}
+  breakSfx: {fileID: 8300000, guid: 08eb33104fa2c7640a7248a46c2d0523, type: 3}
+  xpOnDestroy: 0
+  respawn: 0
+  respawnTime: 30
