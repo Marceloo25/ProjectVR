@@ -33,3 +33,9 @@ Il2CppOutputProject/
 
 # Unity Packages lock (keep if you want deterministic deps)
 # Packages/packages-lock.json
+
+# Project-specific large assets (excluded from Git)
+Assets/Custom/Rs-Map/
+Assets/Custom/Rs-Map.meta
+Assets/Samples/Scenes/StarterDungeon.unity
+Assets/Samples/Scenes/StarterDungeon.unity.meta
