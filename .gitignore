@@ -39,3 +39,10 @@ Assets/Custom/Rs-Map/
 Assets/Custom/Rs-Map.meta
 Assets/Samples/Scenes/StarterDungeon.unity
 Assets/Samples/Scenes/StarterDungeon.unity.meta
+Build.rar
+
+# Project-specific large assets (excluded from Git)
+Assets/Custom/Rs-Map/
+Assets/Custom/Rs-Map.meta
+Assets/Samples/Scenes/StarterDungeon.unity
+Assets/Samples/Scenes/StarterDungeon.unity.meta
